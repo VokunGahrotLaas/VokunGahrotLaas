@@ -6,9 +6,9 @@
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=vokungahrotlaas&show_icons=true&locale=en&theme=midnight-purple&count_private=true&include_all_commits=true" alt="vokungahrotlaas" /></p>
 
 <h3> 🔭 I’m currently working on: </h3>
-<a href="https://github.com/VokunGahrotLaas/scplib">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=VokunGahrotLaas&repo=scplib&show_icons=true&locale=en&theme=midnight-purple&show_owner=true" />
-</a>
+<a href="https://github.com/VokunGahrotLaas/scplib"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VokunGahrotLaas&repo=scplib&show_icons=true&locale=en&theme=midnight-purple&show_owner=true" /></a>
+<a href="https://github.com/VokunGahrotLaas/scpshell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VokunGahrotLaas&repo=scpshell&show_icons=true&locale=en&theme=midnight-purple&show_owner=true" /></a>
+<a href="https://github.com/VokunGahrotLaas/OCR"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VokunGahrotLaas&repo=OCR&show_icons=true&locale=en&theme=midnight-purple&show_owner=true" /></a>
 
 <h3>Connect with me:</h3>
 <p>
@@ -21,4 +21,3 @@
 
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=vokungahrotlaas&show_icons=true&locale=en&theme=midnight-purple&count_private=true&layout=compact&langs_count=10" alt="vokungahrotlaas" /></p>
 </div>
-

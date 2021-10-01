@@ -7,8 +7,6 @@
 
 <h3> 🔭 I’m currently working on: </h3>
 <div>
-<a href="https://github.com/VokunGahrotLaas/scplib"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VokunGahrotLaas&repo=scplib&show_icons=true&locale=en&theme=midnight-purple&show_owner=true"/></a>
-<a href="https://github.com/VokunGahrotLaas/scpshell"><img src="https://github-readme-stats.vercel.app/api/pin/?username=VokunGahrotLaas&repo=scpshell&show_icons=true&locale=en&theme=midnight-purple&show_owner=true"/></a>
 <a href="https://github.com/sepanou/ocr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sepanou&repo=ocr&show_icons=true&locale=en&theme=midnight-purple&show_owner=true"/></a>
 </div>
 

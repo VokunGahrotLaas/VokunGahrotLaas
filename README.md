@@ -5,10 +5,12 @@
 <img src="https://github-readme-stats.vercel.app/api?username=vokungahrotlaas&show_icons=true&locale=en&theme=midnight-purple&count_private=true&include_all_commits=true" alt="vokungahrotlaas"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vokungahrotlaas&show_icons=true&locale=en&theme=midnight-purple&count_private=true&layout=compact&langs_count=10" alt="vokungahrotlaas"/>
 
+<!--
 <h3> 🔭 I’m currently working on: </h3>
 <div>
 <a href="https://github.com/sepanou/ocr"><img src="https://github-readme-stats.vercel.app/api/pin/?username=sepanou&repo=ocr&show_icons=true&locale=en&theme=midnight-purple&show_owner=true"/></a>
 </div>
+-->
 
 <h3> Connect with me: </h3>
 <a href="https://twitter.com/VokunGahrotLaas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="VokunGahraotLaas" height="30" width="40"/></a>

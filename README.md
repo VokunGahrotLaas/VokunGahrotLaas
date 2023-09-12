@@ -9,7 +9,7 @@
 
 ### 🔭 I’m currently working on:
 
-[![](https://github-readme-stats.vercel.app/api/pin/?username=VokunGahrotLaas&repo=stdio-stream&show_icons=true&locale=en&theme=midnight-purple&show_owner=true)](https://github.com/VokunGahrotLaas/stdio-stream)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=VokunGahrotLaas&repo=inf-process&show_icons=true&locale=en&theme=midnight-purple&show_owner=true)](https://github.com/VokunGahrotLaas/inf-process)
 [![](https://github-readme-stats.vercel.app/api/pin/?username=VokunGahrotLaas&repo=infint&show_icons=true&locale=en&theme=midnight-purple&show_owner=true)](https://github.com/VokunGahrotLaas/infint)
 
 ### Connect with me:

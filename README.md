@@ -21,6 +21,8 @@
   <img align="center" src="https://github-readme-stats-beta-indol-38.vercel.app/api/pin/?username=VokunGahrotLaas&repo=inf-process&show_icons=true&locale=en&theme=midnight-purple&show_owner=true" />
 </a>
 
+### 💬 Ask me about anything [here](https://github.com/VokunGahrotLaas/VokunGahrotLaas/issues)
+
 ### Connect with me:
 
 <a href="https://matrix.to/#/@vokungahrotlaas:matrix.org" target="blank">

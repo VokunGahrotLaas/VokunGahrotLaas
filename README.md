@@ -21,6 +21,12 @@
   <img align="center" src="https://github-readme-stats-beta-indol-38.vercel.app/api/pin/?username=VokunGahrotLaas&repo=inf-process&show_icons=true&locale=en&theme=midnight-purple&show_owner=true" />
 </a>
 
+
+
+<a href="https://github.com/VokunGahrotLaas/inf-process" target="blank">
+  <img align="center" src="https://github-readme-stats-beta-indol-38.vercel.app/api/pin/?username=VokunGahrotLaas&repo=funxx&show_icons=true&locale=en&theme=midnight-purple&show_owner=true" />
+</a>
+
 ### 💬 Ask me about anything [here](https://github.com/VokunGahrotLaas/VokunGahrotLaas/issues)
 
 ### Connect with me:

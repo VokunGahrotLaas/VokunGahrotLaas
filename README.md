@@ -17,15 +17,12 @@
 <a href="https://github.com/VokunGahrotLaas/vat" target="blank">
   <img align="center" src="https://github-readme-stats-beta-indol-38.vercel.app/api/pin/?username=VokunGahrotLaas&repo=vat&show_icons=true&locale=en&theme=midnight-purple&show_owner=true" />
 </a>
-<a href="https://github.com/VokunGahrotLaas/shader-viewer" target="blank">
-  <img align="center" src="https://github-readme-stats-beta-indol-38.vercel.app/api/pin/?username=VokunGahrotLaas&repo=shader-viewer&show_icons=true&locale=en&theme=midnight-purple&show_owner=true" />
-</a>
 
 ### 💬 Ask me about anything [here](https://github.com/VokunGahrotLaas/VokunGahrotLaas/issues)
 
 ### Connect with me:
 
-<a href="https://matrix.to/#/@vokungahrotlaas:matrix.org" target="blank">
+<a href="https://matrix.to/#/@maxence:vokunaav.fr" target="blank">
   <img align="center" src="https://matrix.org/images/matrix-logo-white.svg" alt="VokunGahraotLaas" height="30" width="40"/>
 </a>
 <a href="https://linkedin.com/in/maxence-michot" target="blank">
